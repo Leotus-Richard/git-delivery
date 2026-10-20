@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "identity": {
+    "alias": null,
+    "email": null,
+    "confirmedByRequester": false,
+    "confirmationReference": null
+  },
+  "limits": {"files": 10, "changedLines": 300},
+  "sizeException": null,
+  "binaryReview": null,
+  "checks": [],
+  "timeoutMs": 120000,
+  "note": "Replace unknown identity with requester-confirmed Git alias/email and checks with repository-approved argv arrays. This template deliberately cannot pass. Use a legitimate private/noreply email when confirmed by the requester; never derive it from a login."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "git-delivery",
+  "version": "0.1.0",
+  "description": "Optional local Git commit preparation and verification; no automatic publication.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "homepage": "https://github.com/Leotus-Richard/git-delivery",
+  "repository": "https://github.com/Leotus-Richard/git-delivery.git",
+  "license": "MIT"
+}

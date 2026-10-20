@@ -1,0 +1,5 @@
+fix(component): describe one completed behavior
+
+Why: explain the reason and any important constraint
+Tests: passed (replace-with-actual-check-ids)
+Work-Item: OPTIONAL-CANONICAL-ID
